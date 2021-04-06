@@ -1,6 +1,19 @@
-# Scientific papers
+## Compscience Papers
 
-### Description
+Author: Mayara Chew Marinho
+
+Description: Project to compare different types of classifications and visualizations techniques.
+
+Concepts: 
+- Text preprocessing (remove stopwords, Stemming, Lemmatizing)
+- Dimensionality reduction (TF-IDF)
+- Split dataset
+- Classification (Support Vector Machine, Artificial Neural Network: Feed-forward Backpropagation Multilayer Perceptron, Naive Bayes, Random Forest, Nearest Neighbors Classifier, Decision Tree)
+- Visualization (Scatterplot)
+
+### Dataset: Scientific papers
+
+#### Description
 
 Collection of 682 scientific papers, which are categorized as:
 
@@ -12,11 +25,11 @@ Collection of 682 scientific papers, which are categorized as:
 
 Each scientific paper is represented by a simple text describing its **title, authors, abstract and references**.
 
-### Source
+#### Source
 
 http://vicg.icmc.usp.br/vicg/software
 
-### Files
+#### Files
 
 **cbr-ilp-ir-son-int.zip**: compacted files of all scientific papers;
 
@@ -24,7 +37,7 @@ http://vicg.icmc.usp.br/vicg/software
 
 **cbr-ilp-ir-son-int_cosine_gpt.data**: derived TF-IDF representation of this text collection;
 
-### References
+#### References
 
 [1] Paulovich, F. V., Nonato, L. G., Minghim, R., & Levkowitz, H., Least square projection: A fast high-precision multidimensional projection technique and its application to document mapping. IEEE Transactions on Visualization and Computer Graphics, v. 14, n. 3, p. 564-575, 2008.
 
