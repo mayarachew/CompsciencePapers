@@ -1,7 +1,5 @@
 ## Compscience Papers
 
-Author: Mayara Chew Marinho
-
 Description: Project to compare different types of classifications and visualizations techniques.
 
 Concepts: 
